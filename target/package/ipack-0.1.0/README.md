@@ -1,3 +1,0 @@
-# IPack
-
-My Rust pack
