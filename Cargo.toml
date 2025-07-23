@@ -1,0 +1,11 @@
+[package]
+name = "ipack"
+description = "My Rust pack"
+homepage = "https://github.com/ahmetcanisik/ipack"
+repository = "https://github.com/ahmetcanisik/ipack"
+readme = "README.md"
+License = "MIT"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
